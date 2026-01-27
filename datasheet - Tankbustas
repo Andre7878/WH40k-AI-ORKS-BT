@@ -1,0 +1,88 @@
+### **Einheit: Tankbustas**
+
+**Fraktion:** Orks
+**Anzahl Modelle:** 6 (Tankbusta x6)
+
+---
+
+### **1. Profilwerte (Stats)**
+
+| Unit | M (Move) | T (Toughness) | SV (Save) | W (Wounds) | LD (Leadership) | OC (Objective Control) |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Tankbusta (x6)** | 6" | 5 | 4+ | 2 | 7+ | 1 |
+
+---
+
+### **2. Fernkampfwaffen (Ranged Weapons)**
+
+* **Rokkit pistol**
+* **Range:** 12"
+* **A (Attacks):** 1
+* **BS (Ballistic Skill):** 5+
+* **S (Strength):** 9
+* **AP:** -2
+* **D (Damage):** 3
+* **Keywords:** Pistol
+
+
+* **Rokkit launcha (x6)**
+* **Range:** 24"
+* **A:** D3
+* **BS:** 5+
+* **S:** 9
+* **AP:** -2
+* **D:** 3
+* **Keywords:** Blast
+
+
+
+---
+
+### **3. Nahkampfwaffen (Melee Weapons)**
+
+* **Choppa**
+* **Range:** Melee
+* **A:** 4
+* **WS (Weapon Skill):** 3+
+* **S:** 5
+* **AP:** -1
+* **D:** 1
+* **Keywords:** -
+
+
+* **Smash hammer**
+* **Range:** Melee
+* **A:** 2
+* **WS:** 3+
+* **S:** 6
+* **AP:** -2
+* **D:** 3
+* **Keywords:** Anti-Monster 4+, Anti-Vehicle 4+
+
+
+* **Close combat weapon (x5)**
+* **Range:** Melee
+* **A:** 3
+* **WS:** 3+
+* **S:** 5
+* **AP:** 0
+* **D:** 1
+* **Keywords:** -
+
+
+
+---
+
+### **4. Fähigkeiten (Abilities)**
+
+* **Tank Hunters:** Each time a model in this unit makes an attack that targets a **MONSTER** or **VEHICLE** unit, add 1 to the Hit roll and add 1 to the Wound roll.
+* **Attached Unit:** If a **CHARACTER** unit from your army with the **Leader** ability can be attached to a **LOOTAS** unit, it can be attached to this unit instead.
+* **Bomb Squigs:** Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds.
+* **Designer's Note:** Place two Bomb Squig tokens next to the unit, removing one each time this unit uses this ability.
+
+---
+
+### **5. Sonstige Regeln & Keywords**
+
+* **Rules:** Waaagh!, Pistol, Anti-, Blast
+* **Keywords:** Infantry, Tankbustas, Faction: Orks, Grenades
