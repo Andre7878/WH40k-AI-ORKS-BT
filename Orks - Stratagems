@@ -1,0 +1,61 @@
+
+
+# Orks: War Horde Stratagems
+
+## Stratagem-Übersicht
+
+| Stratagem | Typ | Kosten | Phase |
+| --- | --- | --- | --- |
+| **Mob Rule** | Battle Tactic | 1 CP | Command Phase |
+| **'Ere We Go** | Battle Tactic | 1 CP | Start of Movement |
+| **Careen!** | Epic Deed | 1 CP | Any Phase (Destruction) |
+| **Unbridled Carnage** | Battle Tactic | 1 CP | Fight Phase |
+| **Orks Is Never Beaten** | Epic Deed | 2 CP | Fight Phase |
+| **'Ard As Nails** | Battle Tactic | 1 CP | Shooting / Fight Phase |
+
+---
+
+## Details
+
+### Mob Rule (1 CP)
+
+* **Typ:** Battle Tactic
+* **Zeitpunkt:** Deine Command Phase.
+* **Ziel:** Eine **Mob**-Einheit deiner Armee mit 10 oder mehr Modellen, die nicht unter halber Sollstärke (*Below Half-strength*) ist.
+* **Effekt:** Wähle eine befreundete **Battle-shocked Orks Infantry** Einheit innerhalb von 6" um die **Mob**-Einheit. Diese Einheit ist nicht länger *Battle-shocked*.
+
+### 'Ere We Go (1 CP)
+
+* **Typ:** Battle Tactic
+* **Zeitpunkt:** Beginn deiner Bewegungsphase.
+* **Ziel:** Eine **Orks Infantry** Einheit deiner Armee.
+* **Effekt:** Bis zum Ende des Spielzugs addiere **+2** auf Advance- und Charge-Würfe dieser Einheit.
+
+### Careen! (1 CP)
+
+* **Typ:** Epic Deed
+* **Zeitpunkt:** Jede Phase, direkt nachdem eine **Orks Vehicle** Einheit mit der Fähigkeit *Deadly Demise* zerstört wurde.
+* **Ziel:** Die zerstörte Einheit (nur wenn eine 6 für *Deadly Demise* gewürfelt wurde). Kann genutzt werden, obwohl die Einheit bereits zerstört ist.
+* **Effekt:** Die Einheit kann eine normale Bewegung oder eine Rückzugsbewegung (*Fall Back*) ausführen, bevor *Deadly Demise* abgewickelt wird und bevor transportierte Einheiten aussteigen. Die Einheit kann sich über gegnerische Modelle (außer Monster und Fahrzeuge) hinwegbewegen.
+
+### Unbridled Carnage (1 CP)
+
+* **Typ:** Battle Tactic
+* **Zeitpunkt:** Nahkampfphase (*Fight phase*).
+* **Ziel:** Eine **Orks** Einheit, die in dieser Phase noch nicht zum Kämpfen ausgewählt wurde.
+* **Effekt:** Bis zum Ende der Phase gilt jeder unmodifizierte Trefferwurf von **5+** als kritischer Treffer (*Critical Hit*).
+
+### Orks Is Never Beaten (2 CP)
+
+* **Typ:** Epic Deed
+* **Zeitpunkt:** Nahkampfphase, direkt nachdem eine gegnerische Einheit ihre Ziele gewählt hat.
+* **Ziel:** Eine **Orks** Einheit, die als Ziel gewählt wurde.
+* **Effekt:** Bis zum Ende der Phase gilt: Jedes Mal, wenn ein Modell zerstört wird und noch nicht gekämpft hat, wird es nicht sofort entfernt. Es kann kämpfen, nachdem die attackierende Einheit ihre Angriffe abgeschlossen hat, und wird erst dann entfernt.
+
+### 'Ard As Nails (1 CP)
+
+* **Typ:** Battle Tactic
+* **Zeitpunkt:** Schussphase des Gegners oder Nahkampfphase, direkt nachdem eine gegnerische Einheit ihre Ziele gewählt hat.
+* **Ziel:** Eine **Orks** Einheit (ausgeschlossen *Grots*, *Monster* und *Vehicles*).
+* **Effekt:** Bis zum Ende der Phase wird bei jeder Attacke gegen diese Einheit **1 vom Verwundungswurf abgezogen** (-1 to Wound).
+
